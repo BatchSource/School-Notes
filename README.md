@@ -15,6 +15,7 @@
 - Removed dynamic coloring
 - Added an option to disable updates
 - Added more back buttons
+- Completely redone current class system
 - And much more!
 --------------------------------
 
