@@ -1,1 +1,1 @@
-set /a updates=0
+set /a updates=1
