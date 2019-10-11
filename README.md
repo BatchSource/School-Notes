@@ -7,15 +7,10 @@
 # [Download the latest version](https://github.com/BatchSource/School-Notes/raw/master/School%20Notes%2B%20v5.1.exe)
 
 #### What's New?
-- Fixed Quick Shortcuts bugs
-- Added an update checker
+- Removed the update checker
 - Cleaned interface
-- Added how much time is left in each class
-- Homework list doesn't have gaps after deleting an item
-- Removed dynamic coloring
-- Added an option to disable updates
-- Added more back buttons
-- Completely redone current class system
+- Added dynamic window height
+- You can now add up to 20 homework assignments
 - And much more!
 --------------------------------
 
