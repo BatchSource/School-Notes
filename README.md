@@ -7,7 +7,7 @@
 # [Download the latest version](https://github.com/BatchSource/School-Notes/raw/master/School%20Notes%2B%20v5.1.exe)
 
 #### What's New?
-- Removed the update checker
+- Removed the update checker (causing false positives)
 - Cleaned interface
 - Added dynamic window height
 - You can now add up to 20 homework assignments
