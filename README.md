@@ -4,7 +4,7 @@
 ###### School Notes+ is a program that helps you organize and keep track of your homework and complicated schedules!
 --------------------------------------------------------------------------------------
 ## **Current Version v5.1**
-# [Download the latest version](https://github.com/BatchSource/School-Notes/raw/master/School%20Notes%2B%20v5.1.exe)
+# [Download the latest version](https://github.com/BatchSource/School-Notes/raw/master/School%20Notes%2B%20v5.2.exe)
 
 #### What's New?
 - Removed the update checker (causing false positives)
