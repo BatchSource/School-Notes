@@ -3,13 +3,15 @@
 
 ###### School Notes+ is a program that helps you organize and keep track of your homework and complicated schedules!
 --------------------------------------------------------------------------------------
-## **Current Version v5.1**
+## **Current Version v5.2**
 # [Download the latest version](https://github.com/BatchSource/School-Notes/raw/master/School%20Notes%2B%20v5.2.exe)
 
-#### What's New?
+#### What's New in 5.x?
 - Removed the update checker (causing false positives)
 - Cleaned interface
+- Added time left in each class
 - Added dynamic window height
+- Aligned classes
 - You can now add up to 20 homework assignments
 - And much more!
 --------------------------------
